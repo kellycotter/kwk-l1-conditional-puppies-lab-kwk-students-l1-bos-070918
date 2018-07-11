@@ -6,7 +6,7 @@ def no_puppies(number_of_puppies)
   if number_of_puppies > 0
      "No more puppies!"
   else number_of_puppies  
-     "Well Done, Rachel !"
+     "Good job, Rachel !"
  end
 end
 
