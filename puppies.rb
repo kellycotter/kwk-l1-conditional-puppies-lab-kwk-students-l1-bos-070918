@@ -7,8 +7,7 @@ def no_puppies(number_of_puppies)
      "No more puppies!"
   else number_of_puppies  
      "Well Done, Rachel !"
-
-end
+ end
 end
 
  puts no_puppies(4)
